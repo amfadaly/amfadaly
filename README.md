@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! My name is Ahmed Fadaly</h2>
+<h2 align="center">Hi 👋! My name is Ahmed Fadaly</h2>
 
 ###
 
-<h1 align="left">Front End Developer</h1>
+<h1 align="center">Front End Developer | React JS</h1>
+
+###
+
+<h2 align="left">Languages & Tools:</h2>
 
 ###
 
@@ -35,5 +39,22 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/amfadaly/amfadaly/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Contact & Social:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/amfadaly/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wtsi.me/201021651694" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
 ###
