@@ -38,8 +38,6 @@
 
 ###
 
-<br clear="both">
-
 ###
 
 <h2 align="left">Contact & Social:</h2>
