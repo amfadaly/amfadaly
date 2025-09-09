@@ -40,8 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/amfadaly/amfadaly/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">Contact & Social:</h2>
