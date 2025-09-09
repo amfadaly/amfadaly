@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Ahmed Fadaly</h2>
+<h1 align="center">Hi 👋! My name is Ahmed Fadaly</h1>
 
 ###
 
-<h1 align="center">Front End Developer | React JS</h1>
+<h2 align="center">Front End Developer | React JS</h2>
 
 ###
 
